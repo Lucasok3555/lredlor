@@ -1,0 +1,10 @@
+{
+  "name": "MyCoin",
+  "symbol": "MYC",
+  "decimals": 18,
+  "total_supply": "1000000",
+  "network_fee": false,
+  "fee_amount": "0",
+  "chain_id": 1337,
+  "port": 8545
+}
